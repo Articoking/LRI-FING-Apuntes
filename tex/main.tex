@@ -1,0 +1,46 @@
+\documentclass[a4paper, 12pt]{report}
+
+
+% PAQUETES
+%========================================================================================
+
+\usepackage[spanish]{babel} % Porque somos sudacas
+
+\usepackage{subfiles} % Para poder compilar cada capitulo por separado
+
+\usepackage{fancyhdr} % Para hacer los encabezados lindos
+
+% METADATA
+%========================================================================================
+
+\title{
+	Apuntes de Legislación y Relaciones Industriales \\
+	\large Escritos durante el curso 2021\\
+	}
+
+
+
+\pagestyle{fancy}
+\fancyhf{}
+\lhead{LRI-FING}
+\rhead{v0.1}
+\rfoot{\thepage}
+
+% DOCUMENTO
+%========================================================================================
+
+\begin{document}
+
+\maketitle
+
+\subfile{capitulos/cap_1.tex}
+
+\subfile{capitulos/cap_2.tex}
+
+\subfile{capitulos/cap_3.tex}
+
+\subfile{capitulos/cap_4.tex}
+
+\subfile{capitulos/cap_5.tex}
+
+\end{document}
