@@ -9,7 +9,7 @@ Este proyecto no tiene ninguna relación oficial con el equipo docente de LRI ni
 
 ## Disclaimer
 
-Los apuntes **no estan perfectamente completos**, y si perdés el examen por estudiar solo de acá entonces [comiste por gil.](https://www.youtube.com/watch?v=L_KUAghHhoM)
+Los apuntes **no estan perfectamente completos**, y si perdés el examen por estudiar solo de acá entonces **comiste por gil.**
 
 ## Manuscrito original
 
